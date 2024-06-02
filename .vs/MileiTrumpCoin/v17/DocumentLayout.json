@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|c:\\users\\thiago\\source\\repos\\mvc\\mileitrumpcoin\\mileitrumpcoin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|solutionrelative:mileitrumpcoin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|c:\\users\\thiago\\source\\repos\\mvc\\mileitrumpcoin\\mileitrumpcoin\\mileitrumpcoin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|solutionrelative:mileitrumpcoin\\mileitrumpcoin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|c:\\users\\thiago\\source\\repos\\mvc\\mileitrumpcoin\\mileitrumpcoin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|solutionrelative:mileitrumpcoin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|c:\\users\\thiago\\source\\repos\\mvc\\mileitrumpcoin\\mileitrumpcoin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5498ECBE-9469-4CFF-B53B-3D012877BCEF}|MileiTrumpCoin\\MileiTrumpCoin.csproj|solutionrelative:mileitrumpcoin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MileiTrumpCoin\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MileiTrumpCoin\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-30T18:39:11.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MileiTrumpCoin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MileiTrumpCoin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T18:21:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MileiTrumpCoin",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\MileiTrumpCoin.csproj",
+              "RelativeDocumentMoniker": "MileiTrumpCoin\\MileiTrumpCoin.csproj",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\MileiTrumpCoin.csproj",
+              "RelativeToolTip": "MileiTrumpCoin\\MileiTrumpCoin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:10:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MileiTrumpCoin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\MVC\\MileiTrumpCoin\\MileiTrumpCoin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MileiTrumpCoin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:51:30.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
